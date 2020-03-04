@@ -1,0 +1,9 @@
+main: oscar.respawnore.Main
+name: randomplug
+version: 0.1
+author: Oscar
+description: An random plugin
+
+commands:
+   Heal:
+      description: "This command will heal you!"
